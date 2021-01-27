@@ -40,10 +40,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 6467730501547923967}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4679da8ef90252f4e93b3f4cbd860ecb, type: 3}
+  m_Script: {fileID: 11500000, guid: b61d47baf8979744cbe4c900fed2a964, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
   Topic: 
   Frame: 
+  ParentTransform: {fileID: 0}
   Frequency: 12.5
