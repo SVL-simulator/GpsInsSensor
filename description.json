@@ -1,7 +1,7 @@
 {
   "name": "GPS-INS Status Sensor",
   "accessType": "public",
-  "description": "This sensor outputs the status of the GPS correction due to INS. The Simulator is an ideal environment in which GPS is always corrected.\nSee {{DOCS_HOST}}/docs/python-api/#gps-ins-status for more details.",
+  "description": "This sensor outputs the status of the GPS correction due to INS. The Simulator is an ideal environment in which GPS is always corrected.\nSee {{DOCS_HOST}}/docs/simulation-content/sensors-list/#gps-ins-status for more details.",
   "licenseName": "LG Content",
   "copyright": "LG Electronics Inc.",
   "tags": [
